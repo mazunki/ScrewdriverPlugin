@@ -1,0 +1,5 @@
+name: Screwdriver
+main: tech.mazunki.Screwdriver
+version: 0.1
+api-version: 1.15
+commands: 
