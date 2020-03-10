@@ -1,1 +1,1 @@
-jar cfm Screwdriver.jar manifest.txt -C classes/ tech
+jar cfm Screwdriver.jar manifest.txt -C classes/ tech plugin.yml
