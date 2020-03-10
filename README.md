@@ -6,3 +6,5 @@ Possibly something good will come out of it, possibly not. Time will tell.
 
 Use scripts to compile classes and jar-files for usage, make sure to download the necessary libraries/resources from Spigot. Further information found in lib folder.
 
+Nothing else than the latest version of jre8-OpenJDK-8-headless (1.8 64 bit) is necessary to compile the files.
+
