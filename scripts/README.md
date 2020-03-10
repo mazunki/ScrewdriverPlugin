@@ -42,4 +42,4 @@ where `spigot-api-$VER-$REV.jar` is generated from BuildTools.jar (and copied in
 
 With this, you can run `classes/compileClass.sh`, and `classes/compileJar.sh` afterwards, building together the plugin with the corresponding Spigot-API. 
 
-Run the plugin with `java -jar Screwdriver.jar` to test it, or copy it to your server. In order for the plugin to work, you require to bundle together a `plugin.yml` to the jarfile.
+Run the plugin with `java -jar Screwdriver.jar` to test it, or copy it to your server. In order for the plugin to work, you require to bundle together a `plugin.yml` to the jarfile, with details such as name (Screwdriver), main class (tech.mazunki.Screwdriver), version (of Screwdriver plugin), api-version (1.15), and commands (empty, leave it blank).
